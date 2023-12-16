@@ -24,7 +24,7 @@ Antes de executar o bot, certifique-se de ter as seguintes dependências instala
 
 1. Clone o repositório em sua máquina local:
 
-`git clone https://github.com/Aweesoming/FlameMC-Status.git`
+`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
 
 2. Navegue até o diretório do projeto:
 `cd nome-do-repositorio`
